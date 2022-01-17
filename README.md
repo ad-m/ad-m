@@ -908,7 +908,7 @@ I actively participate in the development of open-source projects. I try to shar
 
     * [x] [Simply Django version in tox](https://github.com/Xavier-Lam/django-cache-lock/pull/1) - 2019.07.08
 
-Also, 889 pull requests in 89 repositories not worth mentioning (< 10 stars) here for the sake of clarity
+Also, 889 pull requests in 89 repositories not worth mentioning (< 10 stars) here for the sake of clarity.
 <!-- PR-list-end -->
 ## See also
 
