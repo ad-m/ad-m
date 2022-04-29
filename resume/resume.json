@@ -40,8 +40,8 @@
       "website": "",
       "startDate": "2018",
       "highlights": [
-        "Creating and improving the service offer",
-        "Work of a team organized in the DevOps methodology",
+        "Creating and improving the service offerings within the company",
+        "Working as an organized team using the DevOps methodology",
         "Research of cloud computing service technologies",
         "Managing cooperation with subcontractors",
         "Design, implementation, deployment and maintenance of microservices"
@@ -50,8 +50,8 @@
     },
     {
       "highlights": [
-        "Design and implementation of web applications for own needs organization",
-        "Design, implementation and maintenance of the entire environment IT organization",
+        "Design and implementation of web applications for internal needs of the organization",
+        "Design, implementation and maintenance of the entire IT environment in the organization",
         "Managing a team of volunteers"
       ],
       "company": "Citizens Network Watchdog Poland",
@@ -84,7 +84,7 @@
     },
     {
       "highlights": [
-        "Designing and implementation of CMS software (engine) of the foundation portal",
+        "Design and implementation of the CMS software (engine) of the foundation portal",
         "Deployment and maintenance of the Linux application server"
       ],
       "company": "Foundation RÓWNOŚĆ.INFO",
