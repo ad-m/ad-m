@@ -41,9 +41,8 @@
       "startDate": "2018",
       "highlights": [
         "Creating and improving the service offer",
-        "Work of a team organized in the DevOps methodology",
+        "Work of a team organized around DevOps methodology",
         "Research of cloud computing service technologies",
-        "Managing cooperation with subcontractors",
         "Design, implementation, deployment and maintenance of microservices"
       ],
       "endDate": "2021"
@@ -51,18 +50,17 @@
     {
       "highlights": [
         "Design and implementation of web applications for own needs organization",
-        "Design, implementation and maintenance of the entire environment IT organization",
-        "Managing a team of volunteers"
+        "Design, implementation and maintenance of the entire environment IT organization"
       ],
       "company": "Citizens Network Watchdog Poland",
       "location": "Warsaw, PL",
       "startDate": "2013",
-      "endDate": "Present",
+      "endDate": "2022",
       "position": "IT System Engineer"
     },
     {
       "highlights": [
-        "Analysis in the field of process automation, system integration, authorization model and BI reporting",
+        "Analysis about process automation, system integration, authorization model and BI reporting",
         "Ongoing maintenance of the security of the ERP system operating in the Oracle Cloud environment"
       ],
       "company": "Orange",
@@ -73,8 +71,7 @@
     },
     {
       "highlights": [
-        "Development of the containerized environment for open data systems",
-        "Analysis and development of The Comprehensive Knowledge Archive Network (CKAN) ecosystem"
+        "Development of the containerized environment for open data systems"
       ],
       "company": "Ministry of Digital Affairs",
       "position": "Open Data Analyst",
@@ -84,14 +81,24 @@
     },
     {
       "highlights": [
-        "Designing and implementation of CMS software (engine) of the foundation portal",
-        "Deployment and maintenance of the Linux application server"
+        "Designing, implementation and maintenance of CMS software (engine) of the foundation portal and Linux application server"
       ],
       "company": "Foundation RÓWNOŚĆ.INFO",
       "position": "Back-end developer",
       "location": "Warsaw, PL",
       "startDate": "2014",
       "endDate": "2017"
+    },
+    {
+      "highlights": [
+        "Infrastructure management and DevOps support (Git, Kubernetes, GitHub Actions) for team",
+        "Design and implementation of platform functionality using Python"
+      ],
+      "company": "Select Star",
+      "position": "Cloud Software Engineer",
+      "location": "San Francisco, USA",
+      "startDate": "2022",
+      "endDate": "Present"
     }
   ],
   "skills": [
@@ -100,7 +107,8 @@
       "keywords": [
         "NodeJS",
         "Python",
-        "Bash"
+        "Bash",
+        "Django"
       ],
       "name": "Programming"
     },
