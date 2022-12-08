@@ -34,10 +34,20 @@
   ],
   "work": [
     {
+      "highlights": [
+        "Cloud infrastructure management in DevOps methodology",
+        "Design and implementation of product features using Python"
+      ],
+      "company": "Select Star",
+      "position": "DevOps Engineer",
+      "location": "San Francisco, USA",
+      "startDate": "2022",
+      "endDate": "Present"
+    },
+    {
       "company": "HyperOne",
       "location": "Warsaw, PL",
       "position": "Public Cloud Engineer",
-      "website": "",
       "startDate": "2018",
       "highlights": [
         "Creating and improving the service offer",
@@ -88,17 +98,6 @@
       "location": "Warsaw, PL",
       "startDate": "2014",
       "endDate": "2017"
-    },
-    {
-      "highlights": [
-        "Infrastructure management and DevOps support (Git, Kubernetes, GitHub Actions) for team",
-        "Design and implementation of platform functionality using Python"
-      ],
-      "company": "Select Star",
-      "position": "Cloud Software Engineer",
-      "location": "San Francisco, USA",
-      "startDate": "2022",
-      "endDate": "Present"
     }
   ],
   "skills": [
@@ -121,7 +120,8 @@
     {
       "keywords": [
         "Docker",
-        "Kubernetes"
+        "Kubernetes",
+        "Helm Chart"
       ],
       "name": "Containers"
     },
@@ -157,8 +157,7 @@
         "Traefik",
         "Cypress",
         "Taiko",
-        "Selenium",
-        null
+        "Selenium"
       ],
       "name": "Other"
     },
